@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Este es un repositorio de prueba del m2
+Este proyecto es una prueba
